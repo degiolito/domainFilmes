@@ -1,0 +1,57 @@
+body {
+ font-size: 16px;
+ background-color: #2e342c;
+ font-family: 'Rubik', sans-serif;
+}
+
+footer {
+  background-color: #524f44;
+}
+
+.navbar-brand {
+ text-decoration: none;
+ font-size: 30px;
+ color: purple;
+}
+
+.navbar-brand:hover {
+ text-decoration: none;
+ color: purple;
+}
+
+.navbar-custom {
+  background-color: #f4d03f ;
+}
+.custom-toggler {
+  border-color: black;
+}
+
+.custom-toggler .navbar-toggler-icon{
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");}
+}
+
+.nav-item {
+  position: relative;
+}
+
+.nav-item a {
+  margin-top: 6px;
+  margin-left: 30px;
+  font-weight: 900;
+  color: black;
+}
+
+.nav-link:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+.carousel-inner h2 {
+  margin-bottom: 50px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.carousel-item img {
+  opacity: 30%;
+}
